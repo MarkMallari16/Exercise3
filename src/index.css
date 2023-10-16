@@ -4,6 +4,7 @@
 :root{
     --background: #1D1A27;
     --accent: #4F46E5;
+    --accent-hover: rgb(79,50,229);
     --txt-color: #f1f1f1;
 }   
 body{

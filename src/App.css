@@ -1,3 +1,4 @@
+
 .maniac-text{
   color: var(--accent);
 }
@@ -6,8 +7,8 @@
     border: 1px solid var(--accent);
 }
 .bg,.btn-bg:hover,.bg,.btn-bg:hover:focus{
-  background-color: var(--accent);
-  border: 1px solid var(--accent);
+  background-color: var(--accent-hover);
+  border: 1px solid var(--accent-hover);
 }
 .bg-card{
   background-color: var(--background);

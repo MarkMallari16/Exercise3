@@ -24,7 +24,6 @@ const MovieLists = () => {
             <div className="container d-flex justify-content-center flex-wrap gap-4 ">
                 {
                     movies
-
                         .map(movie => <CardComponent key={movie.id} movie={movie} />)
                 }
             </div>
